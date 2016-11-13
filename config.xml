@@ -24,6 +24,8 @@
     <gap:plugin name="org.apache.cordova.vibration" />
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
+    
+    <gap:splash src="splash.png" />
 
 
 <icon platform="ios" src="res/icons/ios/icon-small.png" width="29" height="29" />
